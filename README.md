@@ -6,7 +6,7 @@ With the day planner, users can easily schedule and store the tasks of the day. 
 * Users can easily save tasks in the text area of each hour. Clicking the save button will save the content to the page.
 
 ## Day Planner 
-![Day_Planner_gif]()
+![Day_Planner_gif](https://github.com/AlNHurst/day-planner/blob/main/Demo/coding_quiz.gif)
 
 ## Links
 * Deployed website 
